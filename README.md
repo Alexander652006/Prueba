@@ -1,3 +1,7 @@
+layout: page
+title: "MIS_GUSTOS[1].html"
+permalink: /https://alexander652006.github.io/Prueba-de-pagina-web/alexander652006.github.io/Prueba-de-pagina-web/MI%20PERSONA.html
+
 <html>
 
 		<head>
