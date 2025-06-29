@@ -56,13 +56,11 @@
 
 		    <img src="CAPIBARA (2).png" align="left" width="315" height="315" alt="Tamaño original" border="0">
 
-		    </img>
-
 		</p><br><br><br><br><br><br><br>
 
 		<p align="left"> 
 
-		    <font color="gray" font size="5" <font face="Castellar"> 
+		    <font color="gray" font size="5" font face="Castellar"> 
 
 		        <a href="MI PERSONA .html">MI PERSONA
 
