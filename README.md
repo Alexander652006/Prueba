@@ -62,7 +62,7 @@
 
 		    <font color="gray" font size="5" font face="Castellar"> 
 
-		        <a href="MI PERSONA .html">MI PERSONA
+		        <a href="https://alexander652006.github.io/Prueba-de-pagina-web/MI PERSONA.html">MI PERSONA
 
 		        </a>
 
